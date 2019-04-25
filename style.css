@@ -1,0 +1,14 @@
+body{
+    background-color: bisque;
+}
+
+.sudoku{
+    display: inline-grid;
+    grid-template-columns: repeat(9, auto);
+}
+
+input{
+    width: 40px;
+    height: 30px;
+    border-radius: 5px;
+}
